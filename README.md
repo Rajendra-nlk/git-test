@@ -1,3 +1,3 @@
 # git-test
 My first GitHub repo!
-Hello odina
+Hello, Wellcome to my git repository
